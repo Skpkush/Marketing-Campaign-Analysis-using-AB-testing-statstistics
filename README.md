@@ -63,9 +63,3 @@ The dataset contains daily performance metrics for both Facebook and Google AdWo
 - Analyze ad creative performance
 - Include competitor benchmarking
 - Develop automated reporting system
-
-## Contributors
-[Your Name]
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
